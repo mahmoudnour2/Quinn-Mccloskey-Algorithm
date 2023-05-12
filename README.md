@@ -1,7 +1,5 @@
 # Quinn-Mccloskey-Algorithm
 This is an efficient algorithm to get minimized logic expressions of boolean expressions
-
-This is an efficient algorithm to get minimized logic expressions of boolean expressions
 The algorithm works for any number of variables.
 
 Instructions to use the program:
